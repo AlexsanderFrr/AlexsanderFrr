@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá, sou Alexsander Ferreira!
+<div align="center">
 
-<!--
-**AlexsanderFrr/AlexsanderFrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/AlexsanderFrr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsanderfrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderfrr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  ##
+ 
+<div> 
+  name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Summary Cards
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+</div>
