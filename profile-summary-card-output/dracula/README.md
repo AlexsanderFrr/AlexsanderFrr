@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/AlexsanderFrr/AlexsanderFrr/main/profile-summary-card-output/dracula/4-productive-time.svg)
+```
+
+    
