@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/AlexsanderFrr/AlexsanderFrr/main/profile-summary-card-output/dark/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
